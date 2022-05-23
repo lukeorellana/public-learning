@@ -8,6 +8,12 @@ Javascript types:
 - **string** - "Hi", 'Hi'
 - **boolean** - true, false
 - **object** - {age: 30}
+- **array** - [1,2,3]
+
+Typescript types:
+- **Tuple** - [1,2] fixed length, doesnt change
+- **Enum** - enum{NEW, OLD}
+- **Any** - *
 
 
 ## Variables and Constants
